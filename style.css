@@ -197,3 +197,10 @@ a {
 .flex {
     display: flex;
 }
+.big-feature-section {
+  padding: 30px var(--padding-inline-section);
+}
+.container{
+  overflow: hidden;
+  
+}
